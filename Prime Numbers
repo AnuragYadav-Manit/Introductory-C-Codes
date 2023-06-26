@@ -1,4 +1,3 @@
-//Program to Print Prime Numbers Uptill N//
 #include <iostream>
 
 using namespace std;
